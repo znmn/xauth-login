@@ -1,6 +1,6 @@
 {
 	"name": "xauth-login",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Node.js simple Tool for login to twitter account with X-auth Client Method",
 	"main": "index.js",
 	"scripts": {
